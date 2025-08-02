@@ -225,3 +225,6 @@ Thumbs.db
 # Auto-generated Tauri files
 /src-tauri/gen
 /src-tauri/capabilities
+
+# Claude Code settings (keep in repository)
+# .claude/ directory is intentionally tracked
